@@ -1,3 +1,0 @@
-[submodule "tmk_core"]
-	path = tmk_core
-	url = git@github.com:tmk/tmk_core.git
