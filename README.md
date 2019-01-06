@@ -1,6 +1,6 @@
 # Miuni32 
 
-![back](/home/adam/Code/miuni32/rendering-back.png)
+![back](rendering-back.png)
 
 ## What is it?
 
