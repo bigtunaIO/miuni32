@@ -1,5 +1,7 @@
 # Miuni32 
 
+![back](/home/adam/Code/miuni32/rendering-back.png)
+
 ## What is it?
 
 A 30%-sized, compact, on-the-go mechanical keyboard PCB for keyboard enthusiasts.
@@ -20,7 +22,7 @@ Go to the [release page](https://github.com/bigtunaIO/qmk_firmware/releases/tag/
 
 ### Compile from source
 
-Download the official [qmk-firmware](https://github.com/qmk/qmk_firmware) source code
+Download the official [qmk-firmware](https://github.com/qmk/qmk_firmware) source code before proceeding.
 
 #### Linux
 
