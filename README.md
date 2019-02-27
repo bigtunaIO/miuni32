@@ -1,6 +1,6 @@
 # Miuni32 
 
-![back](rendering-back.png)
+![back](rendering-back-3d.png)
 
 ## What is it?
 
@@ -71,6 +71,7 @@ sudo dfu-programmer atmega32u4 start
 | TPD1E10B06DPYR                    | ESD in 0402 Package 1 Channel, -40 to +125 degC, 2-pin X2SON (DPY)                                        | U17                                                                                                                                                                                                        | 1        | https://octopart.com/tpd1e10b06dpyr-texas+instruments-22024341   |
 | Atmel ATMEGA32U4-AU               | MCU, 8BIT, MEGAAVR, 16MHZ, TQFP-44                                                                        | U100                                                                                                                                                                                                       | 1        | https://octopart.com/atmega32u4-aur-microchip-15718526           |
 | TXC 7B-16.000MAAJ-T               | CRYSTAL 16.000MHZ 18PF SMD                                                                                | Y1                                                                                                                                                                                                         | 1        | https://octopart.com/7b-16.000maaj-t-txc-18628265                |
+![back](rendering-back-3d.png)
 
 ## Links
 
