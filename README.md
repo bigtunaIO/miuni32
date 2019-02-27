@@ -73,7 +73,7 @@ sudo dfu-programmer atmega32u4 start
 | TXC 7B-16.000MAAJ-T               | CRYSTAL 16.000MHZ 18PF SMD                                                                                | Y1                                                                                                                                                                                                         | 1        | https://octopart.com/7b-16.000maaj-t-txc-18628265                |
 
 
-![back](rendering-back-3d.png)
+![back](rendering-back.png)
 
 ## Links
 
