@@ -48,6 +48,17 @@ sudo dfu-programmer atmega32u4 flash miuni32_default.hex
 sudo dfu-programmer atmega32u4 start
 ```
 
+### Playing with RGB leds
+
+- Hold Z + A to turn on / off
+- Hold Z + S to cycle through different RGB mods
+- Hold Z + D to increase hue
+- Hold Z + F to decrease hue
+- Hold Z + H to increase saturation
+- Hold Z + I to decrease saturation
+- Hold Z + J to increase variance
+- Hold Z + K to decrease variance
+
 ## Bill of Materials
 | Comment                           | Description                                                                                               | Designator                                                                                                                                                                                                 | Quantity | Octopart URL                                                     |
 |-----------------------------------|-----------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------|------------------------------------------------------------------|
